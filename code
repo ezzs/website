@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>ez</title>
+  <meta charset="utf-8">
+  <meta property="og:title" content="ez">
+  <meta property="og:description" content="ez pz">
+  <meta property="og:image" content="https://media.discordapp.net/attachments/627591952703029248/767539893760294933/pfp.gif?width=475&height=475">
+  <meta name="theme-color" content="#4d79ff">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+
+      background-image: url('https://media.discordapp.net/attachments/627591952703029248/767539893760294933/pfp.gif?width=475&height=475');
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+  </style>
+  <meta name="”viewport”" content="”width=device-width," initial-scale="1″">
+  <meta http-equiv="cleartype" content="on">
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://media.discordapp.net/attachments/627591952703029248/767539893760294933/pfp.gif?width=475&height=475">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://media.discordapp.net/attachments/627591952703029248/767539893760294933/pfp.gif?width=475&height=475">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://media.discordapp.net/attachments/627591952703029248/767539893760294933/pfp.gif?width=475&height=475">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="msapplication-config" content="/browserconfig.xml">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+</head>
+<div class="container-fluid">
+<body>
+<div class="links">
+  <h1>Discord: ez#2222</h1>
+  <button onclick="window.location.href='https://instagram.com/eas7';" type="button">Instagram</button>
+  <button onclick="window.location.href='https://twitter.com/irbd';" type="button">Twitter</button>
+  <button onclick="window.location.href='https://www.roblox.com/users/68320516/profile';" type="button">Roblox</button>
+  <button onclick="window.location.href='https://ogusers.com/go';" type="button">OGUsers</button>
+
+</body>
+</html>
+
+
+</body>
+
+</html>
